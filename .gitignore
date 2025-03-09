@@ -1,0 +1,6 @@
+/dataset
+/__pycache__/*
+/models/*
+.DS_Store
+flower_type.h5
+knn_model.pkl
